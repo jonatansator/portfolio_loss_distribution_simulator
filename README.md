@@ -25,3 +25,7 @@
 - **Loss Calculation**: Computes total losses per simulation as exposure * (1 - recovery rate) for defaulted assets.
 - **Statistics**: Calculates mean loss and tail risk percentiles (1%, 5%, 95%, 99%).
 - **Visualization**: Plots the loss distribution as a histogram with mean loss and 95% VaR lines using Plotly.
+
+## Screenshots
+![output](output.png)
+
